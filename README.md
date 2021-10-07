@@ -1,1 +1,1 @@
-# Shopify Theme Development NEw
+# Shopify Theme Development NEwassets/config.yml
